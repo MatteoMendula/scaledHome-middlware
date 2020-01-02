@@ -4,7 +4,7 @@
   "description": "",
   "main": "homeController.js",
   "scripts": {
-    "start": "node homeController.js"
+    "start": "node homeController.js auto"
   },
   "author": "",
   "license": "ISC",
